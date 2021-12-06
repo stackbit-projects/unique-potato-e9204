@@ -3,6 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - type: AlertSection
+    body:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
